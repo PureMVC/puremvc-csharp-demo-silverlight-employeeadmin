@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="PureMVC_SilverlightEmployeeAdminDemo Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>PureMVC_SilverlightEmployeeAdminDemo Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="PureMVC_SilverlightEmployeeAdminDemo Application" Height="650" Width="700" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>

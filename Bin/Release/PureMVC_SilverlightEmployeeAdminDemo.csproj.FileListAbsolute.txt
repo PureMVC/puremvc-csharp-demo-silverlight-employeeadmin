@@ -1,0 +1,214 @@
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.pdb
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\AppManifest.xaml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.xap
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\TestPage.html
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\PureMVC.Silverlight.20.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Controls.Data.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Data.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\PureMVC.Silverlight.20.xml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Controls.Data.xml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\System.Windows.Data.xml
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\de\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\es\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\it\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\ResolveAssemblyReference.cache
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\App.g.cs
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\EmployeeAdmin\View\Components\RolePanel.g.cs
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\EmployeeAdmin\View\Components\UserForm.g.cs
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\EmployeeAdmin\View\Components\UserList.g.cs
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\EmployeeAdmin\EmployeeAdminApplication.g.cs
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.g.resources
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.dll
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.pdb
+C:\dev\PureMVC_SilverlightEmployeeAdminDemo\obj\Release\XapCacheFile.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.pdb
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\AppManifest.xaml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\PureMVC_SilverlightEmployeeAdminDemo.xap
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\TestPage.html
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\PureMVC.Silverlight.20.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Controls.Data.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Data.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\PureMVC.Silverlight.20.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Controls.Data.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\System.Windows.Data.xml
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ar\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\bg\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ca\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\cs\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\da\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\el\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\et\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\eu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\he\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hu\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\id\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ms\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\nl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\no\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ro\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ru\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sl\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sv\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\th\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\tr\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\uk\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\vi\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\ru\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\App.g.i.cs
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\EmployeeAdmin\View\Components\RolePanel.g.i.cs
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\EmployeeAdmin\View\Components\UserForm.g.i.cs
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\EmployeeAdmin\View\Components\UserList.g.i.cs
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\EmployeeAdmin\EmployeeAdminApplication.g.i.cs
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.g.resources
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.dll
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\PureMVC_SilverlightEmployeeAdminDemo.pdb
+C:\Documents and Settings\Administrateur\Bureau\PureMVC_SilverlightEmployeeAdminDemo_v1.1.2\obj\Release\XapCacheFile.xml
